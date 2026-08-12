@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rgf8lx.salamduit.cfd/sitemap.xml
